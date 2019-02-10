@@ -1,3 +1,6 @@
+### Points: 0
+### KEY: No submissions complete :-(
+
 # Introduction to jQuery Graded Classwork
 
 ## Use only jQuery to select elements, and jQuery 
